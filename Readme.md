@@ -17,19 +17,7 @@ O **ML_Pizza** é um projeto que utiliza **Machine Learning** para prever o pre�
   - [Streamlit](https://streamlit.io/) para a interface gráfica.
   - [Pandas](https://pandas.pydata.org/) para manipulação de dados.
   - [Scikit-learn](https://scikit-learn.org/) para o modelo de regressão linear.
-- **Algoritmos**: Regressão Linear
-
-
-## 📂 Estrutura do Projeto
-
-📦 Projeto ML
-│-- 📂 Dados/
-│   ├── pizzas.csv  # Arquivo com dados de diâmetro e preço das pizzas
-│-- ML_Pizza.py  # Código principal do programa
-│-- README.md  # Documentação do projeto
-
-
-## 🚀 Como usar
+- **Algoritmos**: Regressão Linear.
 
 ### 📦 Pré-requisitos
 
